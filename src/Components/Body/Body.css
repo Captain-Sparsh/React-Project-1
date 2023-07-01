@@ -1,0 +1,33 @@
+.area{
+    display: flex;
+    align-items: center;
+    height: calc(100vh - 72px);
+}
+
+.area h1{
+
+    font-weight: 800;
+    font-size: 108px;
+    line-height: 102px;
+}
+
+.text-body{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.area p{
+    color: rgb(67, 67, 67);
+    max-width: 400px;
+}
+
+.butt{
+    display: flex;
+    gap: 24px;
+}
+
+.Brand{
+    display: flex;
+    gap: 16px;
+    margin-top: 8px;
+}
